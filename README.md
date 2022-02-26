@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me **gambhirrahul0@gmail.com**
+- 📫 You can reach me at **gambhirrahul0@gmail.com**
 
 - 😄 Pronouns: He/his
 
